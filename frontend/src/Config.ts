@@ -1,0 +1,1 @@
+export const BACKEND_URL: string = "https://backend.vivek24yadukul.workers.dev/api/v1";
